@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059097271206",
+    "project_id": "apptaxi-81d67",
+    "storage_bucket": "apptaxi-81d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059097271206:android:f9101eb314deb5c6bacd67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_apptaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059097271206-pj59qqf1rjvtj87qmhe7jltl45k5220q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2IVsKe0fRRgkoSgKxXqnXHeYVBn10QY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059097271206-pj59qqf1rjvtj87qmhe7jltl45k5220q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
